@@ -39,7 +39,7 @@
 ###### drill-through option
 
 
-### Discuss Data Cleaning and Preparing
+### Discuss Cleaning and Preparing Data
 
 ###### First: checking data for duplicates
 ###### I found duplicates on the cashiers table (more than 7000 duplicated names and cashiers’ numbers)
