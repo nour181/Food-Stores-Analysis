@@ -3,6 +3,8 @@
 ### Introduction:
 #### We have a data about sales for Food Stores in Egypt, data contains 8 Columns and 8035 Rows
 
+### Tools Used: Power Bi, Power Query, Excel, Dax
+
 ### Quick look for questions and dashboard(Created using Power Bi)
 ##### the dashboard contains 2 pages(Sales Dashboard - Drill Trought Details Dashboard)
 Page 1
