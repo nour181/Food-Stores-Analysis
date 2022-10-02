@@ -5,7 +5,7 @@
 
 ##### the dashboard contains 2 pages(Sales Dashboard - Drill Trought Details Dashboard)
 Page 1
-![image](https://user-images.githubusercontent.com/54687935/193448766-a22b1eaf-31b5-494b-9d12-17085dffb3d2.png)
+![1](https://user-images.githubusercontent.com/54687935/193448646-6c078ae2-0e54-44c6-b27b-20614841d1e4.JPG)
 
 Page 2
 ![2](https://user-images.githubusercontent.com/54687935/193448656-691cc228-4c1c-43e8-8b55-de65c36c12dd.JPG)
