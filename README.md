@@ -1,7 +1,28 @@
 # Food-Stores-Analysis
 
 ### Introduction:
-###### We have a data about sales for Food Stores in Egypt, data contains 8 Columns and 8035 Rows
+#### We have a data about sales for Food Stores in Egypt, data contains 8 Columns and 8035 Rows
+
+##### the dashboard contains 2 pages(Sales Dashboard - Drill Trought Details Dashboard)
+Page 1
+![image](https://user-images.githubusercontent.com/54687935/193448766-a22b1eaf-31b5-494b-9d12-17085dffb3d2.png)
+
+Page 2
+![2](https://user-images.githubusercontent.com/54687935/193448656-691cc228-4c1c-43e8-8b55-de65c36c12dd.JPG)
+
+##### the aim of the project is to answer some quastions and extract some usefull insights
+###### 1- Which sales channel has the highest traffic of orders?
+###### 2- Which store is the most profitable?
+###### 3- get no. of orders per hour (12:00 pm ,1:00 pm, 2:00 pm…... etc)
+###### 4- Create a heat map matrix between the day name and the hours for orders traffic
+###### 5- Rank the cashiers according to the no. of orders they handled (using names not ID)
+###### 6- Calculate the time the orders stay in store per cashier [cashed - created at store]
+###### 6- Illustrate a method for detecting duplicates & outliers
+###### 7- Use drilldown technique in any visual you prefer
+###### 8- Build the same table (sales) and assign it as a drill- through option for any visual you prefer
+###### 9- Use sales time series analysis as a tooltip for any visual you prefer
+###### 10- Use statistical measures that helps in decision making wherever you find suitable
+
 
 #### I started with data analysis process as follow:
 
