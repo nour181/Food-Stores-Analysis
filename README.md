@@ -3,7 +3,7 @@
 ### Introduction:
 #### We have a data about sales for Food Stores in Egypt, data contains 8 Columns and 8035 Rows
 
-### Quick look for questions and dashboard(Created by Power Bi)
+### Quick look for questions and dashboard(Created using Power Bi)
 ##### the dashboard contains 2 pages(Sales Dashboard - Drill Trought Details Dashboard)
 Page 1
 ![1](https://user-images.githubusercontent.com/54687935/193448646-6c078ae2-0e54-44c6-b27b-20614841d1e4.JPG)
