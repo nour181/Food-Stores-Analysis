@@ -5,7 +5,7 @@
 
 ###### I started with data analysis process as follow:
 ####### 1)	Identifying data and measures (business Metrix) to use
-####### 2)	Clean data (incorrect data format – incorrect data type – create custom columns – create columns from selection – remove duplicates – recorrect cashier names ####### based on their cashier number – merge columns – fix datetime and date data)
+####### 2)	Clean data (incorrect data format – incorrect data type – create custom columns – create columns from selection – remove duplicates – recorrect cashier names based on their cashier number – merge columns – fix datetime and date data)
 ####### 3)	 Analyze data and create useful measures that indicates findings
 ####### 4)	Create charts based on the measures we used and design a suitable dashboard
 
